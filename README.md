@@ -3,7 +3,7 @@ APPOINTMENTS RESTful API
 
 This is a basic REST api built for creating, reading, updating and deleting appointments to/from a H2 database.
 
-Steps to run the applicatin :-
+Steps to run the application :-
 1. Clone/download the project from the link - https://github.com/prakharshukla007/appointmentsapi/tree/master
 2. Import the project as Existing Maven Project into Spring Tool Suite 4 or any other Java IDE.
 3. Run the application as Spring Boot Application.
