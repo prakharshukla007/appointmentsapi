@@ -5,7 +5,7 @@ This is a basic REST api built for creating, reading, updating and deleting appo
 
 Steps to run the applicatin :-
 	1. Clone/download the project from the link - https://github.com/prakharshukla007/appointmentsapi/tree/master
-	2. Import the project into Spring Tool Suite 4 or any other Java IDE.
+	2. Import the project as Existing Maven Project into Spring Tool Suite 4 or any other Java IDE.
 	3. Run the application as Spring Boot Application.
 	4. DISCLAIMER : The data stored with POST requests in the present running session of the aplication will not be available when a new session is invoked. New POST requests need to be executed before using GET requests, in order to see any data.
 
